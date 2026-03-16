@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**GabrielRCoelho/GabrielRCoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Gabriel Righi, Desenvolvedor Full Stack.
 
-Here are some ideas to get you started:
+Tenho o foco principalmente na parte de Backend com a linguagem Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Porém, tenho conhecimento em HTML&CSS, Javascript, Figma e SQL.
+
+Este é um pequeno perfil onde irei publicar alguns de meus projetos finalizados ou em andamento. Tudo que for realizado e publicado aqui foi feito do zero, sem plágio.
+
+</> Markdown
+
+## Technologies
+
+- Backend: Java.
+- Frontend: Javascript, HTML&CSS.
+- Data: SQL, MySQL, BigQuerry.
+- Design: Figma.
+
+## Languages 
+
+- English: Advanced.
