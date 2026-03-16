@@ -8,8 +8,6 @@ Porém, tenho conhecimento em HTML&CSS, Javascript, Figma e SQL.
 
 Este é um pequeno perfil onde irei publicar alguns de meus projetos finalizados ou em andamento. Tudo que for realizado e publicado aqui foi feito do zero, sem plágio.
 
-</> Markdown
-
 ## Technologies
 
 - Backend: Java.
