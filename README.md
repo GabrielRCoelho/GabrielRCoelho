@@ -14,6 +14,7 @@ Este é um pequeno perfil onde irei publicar alguns de meus projetos finalizados
 - Frontend: Javascript, HTML&CSS.
 - Data: SQL, MySQL, BigQuerry.
 - Design: Figma.
+- Tools: Trello, Git.
 
 ## Languages 
 
