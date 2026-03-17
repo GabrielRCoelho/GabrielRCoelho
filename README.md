@@ -18,4 +18,4 @@ Este é um pequeno perfil onde irei publicar alguns de meus projetos finalizados
 
 ## Languages 
 
-- English: Advanced.
+- English: Advanced..
